@@ -4,7 +4,7 @@ Install the [Fitbit Connect](http://www.fitbit.com/setup) software for your
 Fitbit Force, Flex, One or Zip tracker.
 
 [![Build
-Status](https://travis-ci.org/boxen/puppet-fitbit_connect.png?branch=master)](https://travis-ci.org/boxen/puppet-fitbit_connect)
+Status](https://travis-ci.org/mxie/puppet-fitbit_connect.png?branch=master)](https://travis-ci.org/mxie/puppet-fitbit_connect)
 
 ## Usage
 
