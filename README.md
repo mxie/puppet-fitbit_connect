@@ -9,7 +9,7 @@ Status](https://travis-ci.org/mxie/puppet-fitbit_connect.png?branch=master)](htt
 ## Usage
 
 ```puppet
-include fitbit_connector
+include fitbit_connect
 ```
 
 ## Required Puppet Modules
